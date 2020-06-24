@@ -1,0 +1,2417 @@
+﻿[
+  {
+    "name": "Phòng đào tạo đại học",
+    "room": "C1-101",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng CT chính trị và CT sinh viên",
+    "room": "C1-102",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng CT chính trị và CT sinh viên",
+    "room": "C1-103",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng CT chính trị và CT sinh viên",
+    "room": "C1-104",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng CT chính trị và CT sinh viên - Trưởng phòng",
+    "room": "C1-105",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn thiết bị điện-điện tử - PTN máy điện",
+    "room": "C1-106",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn thiết bị điện-điện tử - PTN thiết bị điện tử và điều khiển",
+    "room": "C1-107",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn kỹ thuật đo và tin học công nghiệp",
+    "room": "C1-108",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn kỹ thuật đo và tin học công nghiệp",
+    "room": "C1-109",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn kỹ thuật đo và tin học công nghiệp",
+    "room": "C1-110",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn thiết bị điện-điện tử - PTN chuyên đề",
+    "room": "C1-111",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn thiết bị điện-điện tử - PTN kỹ thuật điện",
+    "room": "C1-112",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng hành chính tổng hợp/văn thư",
+    "room": "C1-114",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hệ thống điện - PTN lưới điện-nhà máy điện",
+    "room": "C1-115",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hệ thống điện - PTN mô phỏng hệ thống điện",
+    "room": "C1-116",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hệ thống điện - Phòng làm việc",
+    "room": "C1-117",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hệ thống điện",
+    "room": "C1-118",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hệ thống điện - Phòng họp",
+    "room": "C1-118B",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hệ thống điện - PTN kỹ thuật điện cao áp-vật liệu điện",
+    "room": "C1-119",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hệ thống điện - Phòng làm việc",
+    "room": "C1-119B",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hệ thống điện - PTN hệ thống năng lượng tái tạo",
+    "room": "C1-120",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hệ thống điện - Phòng làm việc",
+    "room": "C1-121",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng thiết bị/Tổ quản lý nước",
+    "room": "C1-122",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng đào tạo đại học",
+    "room": "C1-201",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng đào tạo đại học",
+    "room": "C1-202A",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng đào tạo đại học - Phó trưởng phòng",
+    "room": "C1-202B",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng đào tạo đại học - Phó trưởng phòng",
+    "room": "C1-203B",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng đào tạo đại học - Trưởng phòng",
+    "room": "C1-203",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng tổ chức cán bộ - Trưởng phòng",
+    "room": "C1-204",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng tổ chức cán bộ",
+    "room": "C1-205",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng tổ chức cán bộ",
+    "room": "C1-206",
+    "id": "158465672"
+  },
+  {
+    "name": "Phó hiệu trưởng",
+    "room": "C1-207",
+    "id": "158465672"
+  },
+  {
+    "name": "Phó hiệu trưởng",
+    "room": "C1-208",
+    "id": "158465672"
+  },
+  {
+    "name": "Phó hiệu trưởng",
+    "room": "C1-209",
+    "id": "158465672"
+  },
+  {
+    "name": "Phó hiệu trưởng",
+    "room": "C1-210",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng hợp tác quốc tế - Trưởng phòng",
+    "room": "C1-211",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng hợp tác quốc tế",
+    "room": "C1-212",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng họp",
+    "room": "C1-213",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng khách",
+    "room": "C1-214",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng hành chính tổng hợp/phục vụ lễ tân",
+    "room": "C1-215",
+    "id": "158465672"
+  },
+  {
+    "name": "Hiệu trưởng",
+    "room": "C1-216",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng hành chính tổng hợp",
+    "room": "C1-217",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng hành chính tổng hợp - Trưởng phòng",
+    "room": "C1-218",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng khoa học công nghệ - Trưởng phòng",
+    "room": "C1-219",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng khoa học công nghệ",
+    "room": "C1-220",
+    "id": "158465672"
+  },
+  {
+    "name": "Phó hiệu trưởng",
+    "room": "C1-221",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng họp",
+    "room": "C1-222",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng họp",
+    "room": "C1-223",
+    "id": "158465672"
+  },
+  {
+    "name": "Hội đồng trường",
+    "room": "C1-224",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn gia công vật liệu và dụng cụ công nghiệp - PTN CAD/CAM/CAE",
+    "room": "C1-225",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn gia công vật liệu và dụng cụ công nghiệp",
+    "room": "C1-226",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng thiết bị",
+    "room": "C1-301",
+    "id": "158465672"
+  },
+  {
+    "name": "Giảng đường C1",
+    "room": "C1-302",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hóa hữu cơ",
+    "room": "C1-303",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hàn và công nghệ kim loại",
+    "room": "C1-306",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN kim tương",
+    "room": "C1-307",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN nhiệt luyện",
+    "room": "C1-308",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN nhiệt luyện",
+    "room": "C1-309",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện điện - PTN điện tử",
+    "room": "C1-310",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện đào tạo sau đại học - Phó viện trưởng",
+    "room": "C1-311",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện đào tạo sau đại học - Viện trưởng",
+    "room": "C1-313",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện đào tạo sau đại học - Văn phòng",
+    "room": "C1-315",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện đào tạo sau đại học - Văn phòng",
+    "room": "C1-316",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện đào tạo sau đại học - Phó viện trưởng",
+    "room": "C1-317",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện đào tạo sau đại học - Phòng bảo vệ luận án",
+    "room": "C1-318",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện điện - Văn phòng",
+    "room": "C1-319",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện điện - Văn phòng",
+    "room": "C1-320",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện điện - Văn phòng",
+    "room": "C1-321",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện điện - Ban lãnh đạo",
+    "room": "C1-322",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện điện - Phòng họp",
+    "room": "C1-323",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng khoa học công nghệ",
+    "room": "C1-324",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng khoa học công nghệ",
+    "room": "C1-325",
+    "id": "158465672"
+  },
+  {
+    "name": "Trung tâm nghiên cứu ứng dụng và sáng tạo công nghệ",
+    "room": "C1-326",
+    "id": "158465672"
+  },
+  {
+    "name": "Trung tâm nghiên cứu ứng dụng và sáng tạo công nghệ - Giám đốc",
+    "room": "C1-327",
+    "id": "158465672"
+  },
+  {
+    "name": "Trung tâm nghiên cứu ứng dụng và sáng tạo công nghệ",
+    "room": "C1-328",
+    "id": "158465672"
+  },
+  {
+    "name": "Trung tâm nghiên cứu ứng dụng và sáng tạo công nghệ",
+    "room": "C1-329",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa vô cơ",
+    "room": "C1-401",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa vô cơ",
+    "room": "C1-402",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa vô cơ",
+    "room": "C1-403",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa vô cơ",
+    "room": "C1-405",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa vô cơ",
+    "room": "C1-406",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa vô cơ",
+    "room": "C1-407",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hóa vô cơ",
+    "room": "C1-408",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa phân tích",
+    "room": "C1-409",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa phân tích",
+    "room": "C1-410",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa phân tích",
+    "room": "C1-411",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa hữu cơ",
+    "room": "C1-412",
+    "id": "158465672"
+  },
+  {
+    "name": "Viện điện - PTN vi xử lý",
+    "room": "C1-413",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa vô cơ",
+    "room": "C1-414",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa vô cơ",
+    "room": "C1-415",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa vô cơ",
+    "room": "C1-416",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa học",
+    "room": "C1-417",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hóa phân tích ",
+    "room": "C1-418A",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa phân tích",
+    "room": "C1-418B",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa hữu cơ",
+    "room": "C1-419",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa hữu cơ",
+    "room": "C1-420",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa hữu cơ",
+    "room": "C1-421",
+    "id": "158465672"
+  },
+  {
+    "name": "Bộ môn hóa lý",
+    "room": "C1-422",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa lý",
+    "room": "C1-423",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa lý",
+    "room": "C1-424",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa phân tích",
+    "room": "C1-425",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa lý",
+    "room": "C1-426",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa lý",
+    "room": "C1-427",
+    "id": "158465672"
+  },
+  {
+    "name": "PTN hóa vô cơ",
+    "room": "C1-428",
+    "id": "158465672"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-101",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-102",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-103",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-104",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-105",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-106",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-107",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng nghỉ giảng viên",
+    "room": "D8-108",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-201",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-202",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-203",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng nghỉ giảng viên và phòng trực",
+    "room": "D8-204",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-205",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-206",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-207",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-208",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-301",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-302",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-303",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-304",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-305",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-306",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-307",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-309",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-311",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-401",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-402",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-403",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng nghỉ giảng viên",
+    "room": "D8-404",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-405",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-406",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-407",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-408",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-501",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-502",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-503",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-504",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-505",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-506",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-507",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-601",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-602",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-603",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng nghỉ giảng viên",
+    "room": "D8-604",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-605",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-606",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-607",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-608",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-701",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-702",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-703",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-704",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-705",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-706",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-707",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-708",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-801",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-802",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-803",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng nghỉ giảng viên",
+    "room": "D8-804",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-805",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-806",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-807",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-808",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-901",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-902",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-903",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-904",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-905",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-906",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-907",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-908",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1001",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1002",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1003",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng nghỉ giảng viên",
+    "room": "D8-1004",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1005",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1006",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1007",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1008",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1101",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1102",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1103",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1104",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1105",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1106",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1107",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D8-1108",
+    "id": "158465668"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-101",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-102",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-103",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-104",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-105",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-106",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-107",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng trực",
+    "room": "",
+    "id": "158465678"
+  },
+  {
+    "name": "Quán photo D6",
+    "room": "",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng tự học",
+    "room": "D6-201",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng họp",
+    "room": "D6-202",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng họp",
+    "room": "D6-203",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng họp",
+    "room": "D6-204",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-205",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-206",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng nghỉ giảng viên",
+    "room": "D6-207",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-208",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-301",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-302",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-303",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-304",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-305",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng thiết bị",
+    "room": "D6-401",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng họp",
+    "room": "D6-402",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-403",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-404",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-405",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-406",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-306",
+    "id": "158465678"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D6-407",
+    "id": "158465678"
+  },
+  {
+    "name": "Bộ môn tự động hóa công nghiệp - Phòng làm việc",
+    "room": "C9-101",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn tự động hóa công nghiệp - Phòng làm việc",
+    "room": "C9-102",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn tự động hóa công nghiệp - Văn phòng",
+    "room": "C9-103",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn tự động hóa công nghiệp - Phòng họp",
+    "room": "C9-104",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn quang học và quang điện tử - PTN quang-quang điện tử",
+    "room": "C9-105",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn quang học và quang điện tử - PTN quang-quang điện tử",
+    "room": "C9-106",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn quang học và quang điện tử - PTN lasez-kỹ thuật ánh sáng",
+    "room": "C9-107",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn quang học và quang điện tử - PTN quang phổ",
+    "room": "C9-107B",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn vật liệu điện tử - PTN chuyên ngành vật liệu điện tử",
+    "room": "C9-108",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn vật liệu điện tử - PTN cảm biến sinh học",
+    "room": "C9-109",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn quang học và quang điện tử - PTN phân tích cấu trúc",
+    "room": "C9-110",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn quang học và quang điện tử - PTN phân tích cấu trúc",
+    "room": "C9-111",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn kỹ thuật thông tin - PTN truyền số liệu",
+    "room": "C9-201",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn kỹ thuật thông tin - PTN thông tin số",
+    "room": "C9-202",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn kỹ thuật thông tin - PTN điện tử công suất và truyền động điện",
+    "room": "C9-203",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện kinh tế và quản lý - Phòng nghiên cứu",
+    "room": "C9-205B",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện kinh tế và quản lý - Phòng hội nghị",
+    "room": "C9-205",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn kinh tế công nghiệp",
+    "room": "C9-206",
+    "id": "158465683"
+  },
+  {
+    "name": "Trung tâm nghiên cứu kinh tế và quản lý và văn phòng chương trình Monozuki",
+    "room": "C9-207",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn quản lý tài chính",
+    "room": "C9-207B",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn quản trị kinh doanh",
+    "room": "C9-208",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn kinh tế học",
+    "room": "C9-208B",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn quản lý công nghiệp",
+    "room": "C9-209",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn khoa học quản lý và luật",
+    "room": "C9-210",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn vật liệu điện tử",
+    "room": "C9-211",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện kinh tế và quản lý - Phòng họp",
+    "room": "C9-301",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện kinh tế và quản lý - Văn phòng",
+    "room": "C9-302",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện kinh tế và quản lý - Văn phòng",
+    "room": "C9-303",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện kinh tế và quản lý - Văn phòng",
+    "room": "C9-304",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn điện tử-kỹ thuật máy tính - PTN máy tính",
+    "room": "C9-306",
+    "id": "158465683"
+  },
+  {
+    "name": "Trung tâm điện tử y sinh",
+    "room": "C9-307",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn điện tử-kỹ thuật máy tính - PTN mạch và xử lý tín hiệu y sinh",
+    "room": "C9-308B",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn điện tử-kỹ thuật máy tính - PTN phân tích, xử lý tín hiệu và ảnh y sinh",
+    "room": "C9-308A",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn hệ thống viễn thông - PTN trường điện từ - PTN anten và siêu cao tần",
+    "room": "C9-309A",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn hệ thống viễn thông - PTN đa phương tiện - PTN thông tin quang - PTN kỹ thuật truyền hình",
+    "room": "C9-309B",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn hệ thống viễn thông - PTN điện tử tương tự 1,2",
+    "room": "C9-310",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện điện - Điều khiển tự động",
+    "room": "C9-311",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện điện tử viễn thông - Phòng họp",
+    "room": "C9-401",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện điện tử viễn thông - Phòng viện trưởng ",
+    "room": "C9-402",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện điện tử viễn thông - Phòng viện trưởng ",
+    "room": "C9-403",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện điện tử viễn thông - Văn phòng",
+    "room": "C9-404",
+    "id": "158465683"
+  },
+  {
+    "name": "Viện điện tử viễn thông - Văn phòng",
+    "room": "C9-405",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn điện tử-kỹ thuật máy tính",
+    "room": "C9-406",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn điện tử-kỹ thuật máy tính -Văn phòng chung",
+    "room": "C9-407",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn hệ thống viễn thông",
+    "room": "C9-408",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn mạch và xử lý tín hiệu",
+    "room": "C9-409",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn điện tử hàng không vũ trụ",
+    "room": "C9-410",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn kỹ thuật thông tin - PTN mạng thông tin",
+    "room": "C9-411",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn kỹ thuật thông tin",
+    "room": "C9-412",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn công nghệ điện tử-kỹ thuật y sinh",
+    "room": "C9-413",
+    "id": "158465683"
+  },
+  {
+    "name": "Bộ môn quang học và quang điện tử - PTN pin mặt trời",
+    "room": "C2-101",
+    "id": "158465666"
+  },
+  {
+    "name": "Phòng quản lý chất lượng",
+    "room": "C2-102",
+    "id": "158465666"
+  },
+  {
+    "name": "Viện điện - PTN rockwell automation",
+    "room": "C2-103",
+    "id": "158465666"
+  },
+  {
+    "name": "Phòng hội thảo",
+    "room": "C2-104",
+    "id": "158465666"
+  },
+  {
+    "name": "Phòng hội thảo",
+    "room": "C2-105",
+    "id": "158465666"
+  },
+  {
+    "name": "Hội trường C2",
+    "room": "C2-106",
+    "id": "158465666"
+  },
+  {
+    "name": "Thường trực đảng ủy",
+    "room": "C2-202",
+    "id": "158465666"
+  },
+  {
+    "name": "Văn phòng đảng ủy",
+    "room": "C2-203",
+    "id": "158465666"
+  },
+  {
+    "name": "Phòng họp đảng ủy",
+    "room": "C2-204",
+    "id": "158465666"
+  },
+  {
+    "name": "Hội cựu chiến binh",
+    "room": "C2-207",
+    "id": "158465666"
+  },
+  {
+    "name": "Đoàn TNCS Hồ Chí Minh",
+    "room": "C2-208",
+    "id": "158465666"
+  },
+  {
+    "name": "Ban thanh tra nhân dân",
+    "room": "C2-209",
+    "id": "158465666"
+  },
+  {
+    "name": "Chủ tịch công đoàn",
+    "room": "C2-212",
+    "id": "158465666"
+  },
+  {
+    "name": "Văn phòng công đoàn",
+    "room": "C2-214",
+    "id": "158465666"
+  },
+  {
+    "name": "Quán photo D9",
+    "room": "",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-101",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-102",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-103",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-104",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-105",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-106",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-107",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-201",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-202",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-203",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-204",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-205",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-206",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-207",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng nghỉ giảng viên D9",
+    "room": "",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng thiết bị D9",
+    "room": "",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-301",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-302",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-303",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-304",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-305",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-306",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-307",
+    "id": "158465664"
+  },
+  {
+    "name": "Tổ công tác KY-HUST-BTL",
+    "room": "",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-401",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-402",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-403",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-404",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-405",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-406",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-407",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-501",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-502",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-503",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-504",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-505",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-506",
+    "id": "158465664"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D9-507",
+    "id": "158465664"
+  },
+  {
+    "name": "Văn phòng LCĐ-LCH",
+    "room": "D7-101",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học ",
+    "room": "D7-102",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-103",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học ",
+    "room": "D7-104",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-105",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học ",
+    "room": "D7-106",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-107",
+    "id": "158465671"
+  },
+  {
+    "name": "Văn phòng",
+    "room": "D7-201",
+    "id": "158465671"
+  },
+  {
+    "name": "Văn phòng ",
+    "room": "D7-202",
+    "id": "158465671"
+  },
+  {
+    "name": "Văn phòng",
+    "room": "D7-203A",
+    "id": "158465671"
+  },
+  {
+    "name": "Văn phòng chương trình SIE",
+    "room": "D7-203B",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-204",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng họp",
+    "room": "D7-205",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-206",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-207",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-301",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-302",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-303",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-304",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-305",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-306",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-307",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng nghỉ giảng viên D7",
+    "room": "",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-401",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng máy tính",
+    "room": "D7-402",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng máy tính",
+    "room": "D7-403",
+    "id": "158465671"
+  },
+  {
+    "name": "Văn phòng",
+    "room": "D7-404",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng máy tính",
+    "room": "D7-405",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-406",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-407",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-500",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-501",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-502",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-503",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-504",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-505",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-506",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-507",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D7-508",
+    "id": "158465671"
+  },
+  {
+    "name": "Phòng tự học D35 tầng 1",
+    "room": "D35-103",
+    "id": "184021008"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D35-201",
+    "id": "184021008"
+  },
+  {
+    "name": "Phòng nghỉ giảng viên D35 tầng 2",
+    "room": "D35-202",
+    "id": "184021008"
+  },
+  {
+    "name": "Bộ môn toán tin và ứng dụng",
+    "room": "D35-201BIS",
+    "id": "184021008"
+  },
+  {
+    "name": "Phòng tự học D35 tầng 2",
+    "room": "D35-203",
+    "id": "184021008"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D35-301",
+    "id": "184021008"
+  },
+  {
+    "name": "Viện sư phạm kỹ thuật - Bộ môn sư phạm các ngành kỹ thuật",
+    "room": "D35-302",
+    "id": "184021008"
+  },
+  {
+    "name": "Viện sư phạm kỹ thuật - Bộ môn khoa học và công nghệ giáo dục",
+    "room": "D35-303",
+    "id": "184021008"
+  },
+  {
+    "name": "Viện sư phạm kỹ thuật - Phòng thực hành phương pháp",
+    "room": "D35-304",
+    "id": "184021008"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D35-401",
+    "id": "184021008"
+  },
+  {
+    "name": "Phòng nghỉ giảng viên D35 tầng 4",
+    "room": "D35-402",
+    "id": "184021008"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D35-403",
+    "id": "184021008"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D35-501",
+    "id": "184021008"
+  },
+  {
+    "name": "Phòng tự học D35 tầng 5",
+    "room": "D35-502",
+    "id": "184021008"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D35-503",
+    "id": "184021008"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-101",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-102",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-103",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-104",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-105",
+    "id": "136174986"
+  },
+  {
+    "name": "Quán photo D5",
+    "room": "",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-201",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-202",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-203",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-204",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-205",
+    "id": "136174986"
+  },
+  {
+    "name": "Văn phòng trung tâm máy tính",
+    "room": "D5-301",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng máy tính",
+    "room": "D5-302",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng máy tính",
+    "room": "D5-303",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng máy tính",
+    "room": "D5-304",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng máy tính",
+    "room": "D5-305",
+    "id": "136174986"
+  },
+  {
+    "name": "Viện sư phạm kỹ thuật - Phòng họp",
+    "room": "D5-401A",
+    "id": "136174986"
+  },
+  {
+    "name": "Viện sư phạm kỹ thuật - Phòng viện trưởng",
+    "room": "D5-401B",
+    "id": "136174986"
+  },
+  {
+    "name": "Viện sư phạm kỹ thuật - Văn phòng",
+    "room": "D5-402",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-403",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-404",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-405",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-501",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-502",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-503",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-504",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D5-505",
+    "id": "136174986"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-101",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng thiết bị",
+    "room": "D3-102",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện vật lý kỹ thuật - Bộ môn vật lý đại cương",
+    "room": "D3-103",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện toán ứng dụng và tin học - Bộ môn toán tin",
+    "room": "D3-104",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện toán ứng dụng và tin học - Bộ môn toán cơ bản",
+    "room": "D3-105",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện toán ứng dụng và tin học - Văn phòng ",
+    "room": "D3-106",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện toán ứng dụng và tin học - Viện trưởng",
+    "room": "D3-106A",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện toán ứng dụng và tin học - Phòng họp",
+    "room": "D3-106B",
+    "id": "136174988"
+  },
+  {
+    "name": "Kho",
+    "room": "D3-107",
+    "id": "136174988"
+  },
+  {
+    "name": "Quán photo D3",
+    "room": "",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-201",
+    "id": "136174988"
+  },
+  {
+    "name": "PTN vật lý",
+    "room": "D3-202",
+    "id": "136174988"
+  },
+  {
+    "name": "PTN vật lý",
+    "room": "D3-203",
+    "id": "136174988"
+  },
+  {
+    "name": "PTN vật lý",
+    "room": "D3-204",
+    "id": "136174988"
+  },
+  {
+    "name": "PTN vật lý",
+    "room": "D3-205",
+    "id": "136174988"
+  },
+  {
+    "name": "PTN vật lý",
+    "room": "D3-206",
+    "id": "136174988"
+  },
+  {
+    "name": "Kho",
+    "room": "D3-207",
+    "id": "136174988"
+  },
+  {
+    "name": "Kho",
+    "room": "D3-208",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-301",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện cơ khí - Bộ môn cơ sở thiết kế máy và robot - PTN",
+    "room": "D3-302",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện cơ khí - Bộ môn cơ sở thiết kế máy và robot - PTN",
+    "room": "D3-303",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện cơ khí - Bộ môn cơ sở thiết kế máy và robot - Phòng làm việc",
+    "room": "D3-304",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện cơ khí - Bộ môn cơ sở thiết kế máy và robot - Phòng làm việc",
+    "room": "D3-305",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện cơ khí - Bộ môn cơ sở thiết kế máy và robot - Văn phòng",
+    "room": "D3-306",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện cơ khí - Bộ môn cơ sở thiết kế máy và robot - Văn phòng",
+    "room": "D3-307",
+    "id": "136174988"
+  },
+  {
+    "name": "Khoa lý luận chính trị - Bộ môn đường lối cách mạng của ĐCS Việt Nam",
+    "room": "D3-308",
+    "id": "136174988"
+  },
+  {
+    "name": "Khoa lý luận chính trị - Bộ môn những nguyên lý cơ bản của chủ nghĩa Mac-Lenin",
+    "room": "D3-309",
+    "id": "136174988"
+  },
+  {
+    "name": "Khoa lý luận chính trị - Bộ môn tư tưởng Hồ Chí Minh",
+    "room": "D3-310",
+    "id": "136174988"
+  },
+  {
+    "name": "Khoa lý luận chính trị - Trưởng khoa",
+    "room": "D3-311",
+    "id": "136174988"
+  },
+  {
+    "name": "Khoa lý luận chính trị - Văn phòng",
+    "room": "D3-312A",
+    "id": "136174988"
+  },
+  {
+    "name": "Khoa lý luận chính trị - Phòng họp",
+    "room": "D3-312B",
+    "id": "136174988"
+  },
+  {
+    "name": "Khoa lý luận chính trị - Bộ môn kinh tế chính trị",
+    "room": "D3-407",
+    "id": "136174988"
+  },
+  {
+    "name": "Khoa lý luận chính trị - Bộ môn chủ nghĩa xã hội khoa học",
+    "room": "D3-408",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-401",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-402",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-403",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-404",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-405",
+    "id": "136174988"
+  },
+  {
+    "name": "PTN vật lý",
+    "room": "D3-406",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-501",
+    "id": "136174988"
+  },
+  {
+    "name": "PTN vật lý",
+    "room": "D3-502",
+    "id": "136174988"
+  },
+  {
+    "name": "PTN vật lý",
+    "room": "D3-503",
+    "id": "136174988"
+  },
+  {
+    "name": "Khoa giáo dục QPAN",
+    "room": "D3-504",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-505",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-506",
+    "id": "136174988"
+  },
+  {
+    "name": "Phòng học",
+    "room": "D3-507",
+    "id": "136174988"
+  },
+  {
+    "name": "Ban chủ nhiệm khoa giáo dục QPAN",
+    "room": "D3-508",
+    "id": "136174988"
+  },
+  {
+    "name": "Viện cơ khí - Bộ môn gia công vật liệu và dụng cụ công nghiệp",
+    "room": "C8-103",
+    "id": "183423458"
+  },
+  {
+    "name": "Viện cơ khí - Văn phòng ban cố vấn học tập",
+    "room": "C8-104",
+    "id": "183423458"
+  },
+  {
+    "name": "Viện cơ khí - Bộ môn máy và ma sát học",
+    "room": "C8-105",
+    "id": "183423458"
+  },
+  {
+    "name": "Viện cơ khí - Bộ môn công nghệ chế tạo máy",
+    "room": "C8-107",
+    "id": "183423458"
+  },
+  {
+    "name": "Viện cơ khí - Bộ môn cơ điện tử - PTN FMS and CIM",
+    "room": "C8-201",
+    "id": "183423458"
+  },
+  {
+    "name": "Viện cơ khí - Bộ môn cơ điện tử - PTN cơ điện tử",
+    "room": "C8-202",
+    "id": "183423458"
+  },
+  {
+    "name": "Viện cơ khí động lực - LAB thiết kế máy",
+    "room": "C8-203",
+    "id": "183423458"
+  },
+  {
+    "name": "Viện cơ khí động lực - Bộ môn công nghệ chế tạo máy - Phòng CIM",
+    "room": "C8-204",
+    "id": "183423458"
+  },
+  {
+    "name": "Viện cơ khí động lực - Bộ môn kỹ thuật hàng không vũ trụ",
+    "room": "C8-205",
+    "id": "183423458"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - Bộ môn hệ thống năng lượng nhiệt",
+    "room": "C7-101",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - Bộ môn tự động hóa và điều khiển quá trình nhiệt lạnh",
+    "room": "C7-102",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - PTN truyền nhiệt và truyền chất",
+    "room": "C7-103A",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - PTN kỹ thuật nhiệt",
+    "room": "C7-103B",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - Trung tâm nghiên cứu ứng dụng",
+    "room": "C7-104",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - Trung tâm nghiên cứu ứng dụng",
+    "room": "C7-105",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - PTN năng lượng nhiệt",
+    "room": "C7-106",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - PTN năng lượng nhiệt",
+    "room": "C7-107",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - Bộ môn kỹ thuật nhiệt",
+    "room": "C7-201",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - PTN phân tích nhiên liệu",
+    "room": "C7-202",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - PTN tự động hóa và điều khiển quá trình nhiệt lạnh",
+    "room": "C7-203",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - Văn phòng viện",
+    "room": "C7-204",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - Phòng kế toán",
+    "room": "C7-205",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - Phòng giáo vụ",
+    "room": "C7-206",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - Trung tâm tiết kiệm năng lượng và CGCN",
+    "room": "C7-207",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện khoa học-công nghệ nhiệt lạnh - PTN điều hòa không khí",
+    "room": "C7-208",
+    "id": "183423459"
+  },
+  {
+    "name": "Viện cơ khí động lực - Văn phòng",
+    "room": "C6-102",
+    "id": "183423460"
+  },
+  {
+    "name": "Viện cơ khí động lực - Bộ môn kỹ thuật thủy khí và tàu thủy",
+    "room": "C6-202",
+    "id": "183423460"
+  },
+  {
+    "name": "Viện cơ khí động lực - Bộ môn kỹ thuật thủy khí và tàu thủy",
+    "room": "C6-203",
+    "id": "183423460"
+  },
+  {
+    "name": "Viện cơ khí động lực - Bộ môn kỹ thuật thủy khí và tàu thủy",
+    "room": "C6-204",
+    "id": "183423460"
+  },
+  {
+    "name": "Viện cơ khí động lực - Bộ môn máy và tự động thủy khí",
+    "room": "C6-205",
+    "id": "183423460"
+  }
+]
