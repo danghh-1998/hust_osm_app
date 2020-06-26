@@ -19,6 +19,7 @@ export default class Search extends Component {
             searchType: 0,
             clipboard: '',
             currentCoords: props.currentCoords ? props.currentCoords : null,
+            dest_building: null,
         };
     }
 
@@ -64,12 +65,17 @@ export default class Search extends Component {
                                     let searchInput = this.state.searchInput;
                                     return this.isIncludes(item.name, searchInput) || this.isIncludes(item.room, searchInput);
                                 });
-                                if (this.state.searchType === 1 && this.state.currentCoords) {
-                                    filteredLocations.unshift({
-                                        id: 0,
-                                        name: 'Vị trí hiện tại',
-                                        room: '',
+                                if (this.state.searchType === 1) {
+                                    filteredLocations = filteredLocations.filter((item) => {
+                                        return item.room.split('-')[0] !== this.state.dest_building;
                                     });
+                                    if (this.state.currentCoords) {
+                                        filteredLocations.unshift({
+                                            id: 0,
+                                            name: 'Vị trí hiện tại',
+                                            room: '',
+                                        });
+                                    }
                                 }
                                 this.setState({
                                     locations: filteredLocations,
@@ -94,6 +100,7 @@ export default class Search extends Component {
                                         searchType: 1,
                                         clipboardItem: item,
                                         clipboard: item.name,
+                                        dest_building: item.room.split('-')[0],
                                     });
                                 } else {
                                     if (item.id === 0) {
